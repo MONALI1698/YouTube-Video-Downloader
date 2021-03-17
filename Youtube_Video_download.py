@@ -11,7 +11,6 @@ Label(root,text = 'Youtube Video Downloader', font ='arial 20 bold').pack()
 
 
 
-
 ##enter link
 link = StringVar()
 
